@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alarm Tran</h1>
 <h3 align="center">🦉 Thanh Xuan Night Owl</h3>
-<a href="https://www.facebook.com/Alarm.HUS/" target="__blank"> <img align="right" alt="Coding" width=400  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVnNHZ3ZnYwdGdwNHpqMHBib21qdjNyZGVjYm9vNHJhZ2tndHRwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"> </a> 
+<a href="https://www.facebook.com/Alarm.HUS" target="_blank"> <img align="right" alt="Coding" width=400  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVnNHZ3ZnYwdGdwNHpqMHBib21qdjNyZGVjYm9vNHJhZ2tndHRwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"></a> 
 
 - 🔭 I’m currently working on **Hanoi University of Science**
 
